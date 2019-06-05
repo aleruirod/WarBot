@@ -1,0 +1,36 @@
+package warbot.src;
+
+import java.util.concurrent.Executors;
+import java.util.concurrent.ScheduledExecutorService;
+import java.util.concurrent.TimeUnit;
+
+
+/*
+Ideas y limitaciones para el simulador:
+
+- La simulacion acabara cuando una misma banda controle todos los territorios.
+
+- Decidir de cuanto tiempo seran los intervalos/turnos.
+
+- Decidir que es lo que va a ir mostrandose por consola cada turno (Ya que para esta primera version no tendra interfaz grafica).
+
+
+
+*/
+
+class Main {
+  public static void main(String[] args) {
+
+    Story.opening();
+
+    Mappings.initializeGangs();
+    Mappings.initializeTerritories();
+    Mappings.assignInitialTerritories();
+
+    System.out.println("\n Comienza la guerra:\n");
+
+    final ScheduledExecutorService executorService = Executors.newSingleThreadScheduledExecutor();
+    executorService.scheduleAtFixedRate(Actions::conquest, 0, 10, TimeUnit.SECONDS);    
+
+  }
+}
