@@ -100,3 +100,36 @@
 2019-06-05 14:56:01,441 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\main\resources
 2019-06-05 14:56:01,443 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-06-05 14:56:01,444 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\test\resources
+2019-06-06 14:05:52,534 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-06 14:28:52,264 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:28:52,267 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\main\resources
+2019-06-06 14:28:52,270 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:28:52,271 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\test\resources
+2019-06-06 14:29:12,699 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:12,699 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\main\resources
+2019-06-06 14:29:12,702 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:12,702 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\test\resources
+2019-06-06 14:29:19,804 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:19,806 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\main\resources
+2019-06-06 14:29:19,809 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:19,809 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\test\resources
+2019-06-06 14:29:25,022 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:25,022 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\main\resources
+2019-06-06 14:29:25,025 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:25,027 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\test\resources
+2019-06-06 14:29:29,957 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:29,957 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\main\resources
+2019-06-06 14:29:29,959 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:29,961 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\test\resources
+2019-06-06 14:29:33,490 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:33,492 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\main\resources
+2019-06-06 14:29:33,497 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:33,498 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\test\resources
+2019-06-06 14:29:37,149 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:37,149 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\main\resources
+2019-06-06 14:29:37,151 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:37,152 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\test\resources
+2019-06-06 14:29:41,308 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:41,309 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\main\resources
+2019-06-06 14:29:41,315 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 14:29:41,316 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aruizrodriguez\OneDrive - Deloitte (O365D)\Desktop\test\src\src\test\resources
