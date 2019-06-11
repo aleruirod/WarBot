@@ -4,7 +4,7 @@ public class StatusCheck {
 
 	public static void showAllGangsAndTerritories() {
 		for(Gang g: Mappings.gangs) {
-			System.out.println("- "+g+g.showControlledTerritories()+" En total: "+g.getNumTerritories()+" territorio(s).\n");
+			System.out.println("\t- "+g+g.showControlledTerritories()+" En total: "+g.getNumTerritories()+" territorio(s).\n");
 		}
 	}
 
